@@ -30,4 +30,4 @@ npm run lint
 
 ## Author
 
-> `Lusai`(ellipse120@gmail.com)
+> [`Contact Me`](ellipse120@gmail.com)
