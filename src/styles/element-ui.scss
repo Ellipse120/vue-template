@@ -1,0 +1,6 @@
+ //For Replace Element-UI's Default CSS
+.el-upload {
+  input[type="file"] {
+    display: none !important;
+  }
+}
