@@ -1,23 +1,33 @@
-# saas-web
+# vue-template project
 
-> How To
+> admin template project, including login and axios, etc.
 
-## Project setup
+---
+
+## Project Setup
+
 ```bash
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```bash
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```bash
 npm run build
 ```
 
 ### Lints and fixes files
+
 ```bash
 npm run lint
 ```
+
+## Author
+
+> `Lusai`(ellipse120@gmail.com)
