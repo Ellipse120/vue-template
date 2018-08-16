@@ -1,4 +1,26 @@
 module.exports = {
+	// devServer: {
+	//   proxy: {
+	//     "/Login": {
+	//       target: process.env.VUE_APP_BASE_API,
+	//       pathRewrite: {
+	//         "^/Login": "/Login"
+	//       }
+	//     },
+	//     "/GetUserInfo": {
+	//       target: process.env.VUE_APP_BASE_API,
+	//       pathRewrite: {
+	//         "^/GetUserInfo": "/GetUserInfo"
+	//       }
+	//     },
+	//     "/api": {
+	//       target: process.env.VUE_APP_BASE_API,
+	//       pathRewrite: {
+	//         "^/api": "/api"
+	//       }
+	//     }
+	//   }
+	// },
   configureWebpack: {
     module: {
       rules: [

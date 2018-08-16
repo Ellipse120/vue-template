@@ -3,6 +3,8 @@ import { Message, MessageBox } from "element-ui";
 import { getToken } from "./auth";
 
 const service = axios.create({
+  // baseURL:
+  //   process.env.NODE_ENV === "development" ? "" : process.env.VUE_APP_BASE_API,
   baseURL: process.env.BASE_API,
   timeout: 15000
 });
